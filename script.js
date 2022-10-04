@@ -20,10 +20,10 @@ let projectsArr = {
     "https://github.com/mridulapbk/ProShop-E-Commerce-main",
     "SPORTS"), 
 
-    "Face": new Projects("Social Distance and Face-Mask Tracker main", 
+    "Social": new Projects("Social Distance and Face-Mask Tracker main", 
     "Attendance.png", 
     "https://github.com/mridulapbk/Social-Distance-and-Face-Mask-Tracker-main",
-    "Face"), 
+    "Social"), 
  
 }
 
