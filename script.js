@@ -10,35 +10,21 @@ function ChangeImg() {
     achievement.setAttribute("src",`Images/${achievementsArr[N]}`)
 }
 let projectsArr = {
-    "ATM": new Projects("ATM POS PIN Using Hand Gestures", 
+    "STOCK PRICE": new Projects("STOCK PRICE PREDICTION SYSTEM", 
     "ATM.png", 
-    "https://github.com/Keshav7aug/ATM-POS-PIN-Using-Hand-Gestures",
-    "ATM"), 
+    "#",
+    "STOCK PRICE"), 
 
-    "BRS": new Projects("Book Recommendation System", 
+    "SPORTS": new Projects("SPORTS E- COMMERCE WEBSITE", 
     "Book.png", 
-    "https://github.com/Keshav7aug/Book-Recomendation-System",
-    "BRS"), 
+    "https://github.com/mridulapbk/ProShop-E-Commerce-main",
+    "SPORTS"), 
 
-    "Face": new Projects("Attendance using Face Recognition", 
+    "Face": new Projects("Social Distance and Face-Mask Tracker main", 
     "Attendance.png", 
-    "https://github.com/Keshav7aug/Attendance-Using-Face-Recognition",
+    "https://github.com/mridulapbk/Social-Distance-and-Face-Mask-Tracker-main",
     "Face"), 
-
-    "Wordle": new Projects("Wordle Helper", 
-    "Wordle.png", 
-    "https://github.com/Keshav7aug/WordleHelper",
-    "Wordle"),
-
-    "Sketch": new Projects("Etch a Sketch", 
-    "Sketch.png", 
-    "https://keshav7aug.github.io/Etch-a-Sketch/",
-    "Sketch"),
-
-    "RPS": new Projects("Rock Paper Scissors", 
-    "RockPaperScissors.png", 
-    "https://keshav7aug.github.io/RockPaperScissors/",
-    "RPS"),
+ 
 }
 
 let achievementsArr = ['img_1.jpeg','img_2.jpeg', 'img_3.jpeg',
