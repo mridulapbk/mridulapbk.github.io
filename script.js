@@ -29,7 +29,7 @@ let projectsArr = {
 
 let achievementsArr = ['img_1.jpeg','img_2.jpeg', 'img_3.jpeg',
  'img_17.jpeg', 'img_16.jpeg', 'img_14.jpeg', 'img_15.jpeg', 'img_11.jpeg','img_9.jpeg', 'img_8.jpeg',
- 'img_5.jpeg', 'img_4.jpeg', 'img_13.jpeg', 'img_10.jpeg',, 'img_6.jpeg', 'img_12.jpeg' , 'img_7.jpeg'    
+ 'img_5.jpeg', 'img_4.jpeg', 'img_13.jpeg', 'img_10.jpeg', 'img_6.jpeg', 'img_12.jpeg' , 'img_7.jpeg'    
 ]
 const noOfImages = achievementsArr.length
 const projects = document.querySelector(".projects")
