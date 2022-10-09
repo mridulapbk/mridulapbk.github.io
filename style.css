@@ -4,7 +4,7 @@ body {
     margin: 0px;
     padding: 0px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #ffd2b4
+    background-color: #ffe1ce
 }
 .header {
     display: flex;
@@ -74,7 +74,7 @@ h1 {
     margin-bottom: 64px;
     flex-wrap: wrap;
     align-items: center;
-    background-color: #ffd2b4
+    background-color: #ffe1ce
 }
 
 .project {
