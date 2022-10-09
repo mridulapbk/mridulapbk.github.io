@@ -64,7 +64,7 @@ h1 {
     font-size: 48px;
     margin-left: auto;
     margin-right: auto;
-    background-color: #ffe5b4
+    
 }
 .projects, .achievements {
     display: flex;
@@ -73,6 +73,7 @@ h1 {
     margin-bottom: 64px;
     flex-wrap: wrap;
     align-items: center;
+    background-color: #ffe5b4
 }
 
 .project {
